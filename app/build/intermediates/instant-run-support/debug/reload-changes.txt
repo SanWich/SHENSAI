@@ -1,0 +1,12 @@
+CHANGED,D:\Users\AndroidCode\Androidprojec\SocketClient-Android\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\demo\main\MainActivity$1$2$override.class
+CHANGED,D:\Users\AndroidCode\Androidprojec\SocketClient-Android\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\demo\main\MainActivity$1$override.class
+CHANGED,D:\Users\AndroidCode\Androidprojec\SocketClient-Android\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\demo\main\MainActivity$override.class
+CHANGED,D:\Users\AndroidCode\Androidprojec\SocketClient-Android\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\jzj\socket\TcpServer$1$override.class
+CHANGED,D:\Users\AndroidCode\Androidprojec\SocketClient-Android\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\demo\main\MainActivity$2$override.class
+CHANGED,D:\Users\AndroidCode\Androidprojec\SocketClient-Android\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\demo\main\MainActivity$1$3$override.class
+CHANGED,D:\Users\AndroidCode\Androidprojec\SocketClient-Android\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\demo\main\MainActivity$1$1$override.class
+CHANGED,D:\Users\AndroidCode\Androidprojec\SocketClient-Android\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\demo\main\MainActivity$1$5$override.class
+CHANGED,D:\Users\AndroidCode\Androidprojec\SocketClient-Android\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\jzj\socket\TcpServer$override.class
+CHANGED,D:\Users\AndroidCode\Androidprojec\SocketClient-Android\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\demo\main\MainActivity$1$4$override.class
+CHANGED,D:\Users\AndroidCode\Androidprojec\SocketClient-Android\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\Users\AndroidCode\Androidprojec\SocketClient-Android\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\demo\main\MainActivity$3$override.class
